@@ -1,7 +1,7 @@
 variable "key_pair_name" {
     type = string
     description = "keypair to utilize"
-    default = "Jenskins-pipeline"
+    default = "cici-pipeline-infra"
 }
 
 # variable "vpc_id" {
